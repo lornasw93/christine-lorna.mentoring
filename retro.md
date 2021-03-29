@@ -11,6 +11,8 @@ This repo was created to...
 * Setup basic routing for the 3 pages
 
 #### What went well?
+* Productive - went through creating a new Angular project and talked about basic concepts
+
 #### What didn't go so well?
 #### Feedback
 
@@ -31,7 +33,11 @@ This repo was created to...
 * Lorna shared resources
 
 #### What went well?
+* Productive planning session
+
 #### What didn't go so well?
+* Didn't get much chance to continue with the portfolio site, but overall was really productive due to planning ahead
+
 #### Feedback 
 
 ## Freedom Project
