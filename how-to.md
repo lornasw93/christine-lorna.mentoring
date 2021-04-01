@@ -61,7 +61,7 @@ ng serve --o
 ![angular](https://user-images.githubusercontent.com/7913006/113355824-4087e980-9339-11eb-93a3-e08305eee1a7.PNG)
 
 ## Installing Bootstrap
-Installing the 'bootsrap' package purely for it's css which we copy into the `angular.json` fil (see next step). `ng-bootstrap` for specific for Angular and doesn't require any JS. For more info (check here)[https://ng-bootstrap.github.io/#/getting-started#installation].
+Installing the 'bootsrap' package purely for it's css which we copy into the `angular.json` fil (see next step). `ng-bootstrap` for specific for Angular and doesn't require any JS. For more info [check here](https://ng-bootstrap.github.io/#/getting-started#installation).
 ```
 npm i @ng-bootstrap/ng-bootstrap
 npm i bootstrap
