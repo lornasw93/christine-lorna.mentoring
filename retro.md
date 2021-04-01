@@ -1,6 +1,6 @@
 # Retro
 This repo was created to...
-  
+
 ## Task 1 - Build portfolio website using Angular 11
 
 ### ✨ Session 1 - Wed  25 Mar 21 @ 1hr
@@ -38,6 +38,11 @@ This repo was created to...
 #### What didn't go so well?
 * Didn't get much chance to continue with the portfolio site, but overall was really productive due to planning ahead
 
+#### Feedback 
+
+### ✨ Session 4 - Thu 1 Mar 21 @ ...
+#### What went well?
+#### What didn't go so well?
 #### Feedback 
 
 ## Freedom Project
