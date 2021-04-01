@@ -75,6 +75,24 @@ Add the following line in the `angular.json` file above the default styling file
 ],
 ```
 
+Install an additional package.
+```
+npm i @angular/localize
+```
+
+In the `polyfills.ts` add this line at the top.
+```
+import '@angular/localize/init';
+```
+
+Run the project.
+```
+ng serve --o
+```
+
+
+
+
 Ensure the `NgbModule` is included in the `app.module.ts`. 
 ```
 import { BrowserModule } from '@angular/platform-browser';
