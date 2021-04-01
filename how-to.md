@@ -57,5 +57,7 @@ Let's now run the project. Enter the following command and wait for your browser
 ```
 ng serve --o
 ```
+Your screen should look like this.
+![angular](https://user-images.githubusercontent.com/7913006/113355824-4087e980-9339-11eb-93a3-e08305eee1a7.PNG)
 
 ## Installing Bootstrap
