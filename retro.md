@@ -40,7 +40,7 @@ This repo was created to...
 
 #### Feedback 
 
-### ✨ Session 4 - Thu 1 Mar 21 @ ...
+### ✨ Session 4 - Thu 1 Apr 21 @ 2hrs
 #### What went well?
 #### What didn't go so well?
 #### Feedback 
