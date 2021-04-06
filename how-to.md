@@ -20,7 +20,8 @@ Create a folder called `shared` - this is where the navbar and footer components
 ```
 mkdir shared
 cd shared
-ng g c navbar, footer
+ng g c navbar
+ng g c footer
 ```
 Ensure the components have been added into the `app.module.ts` file, they should've been automatically added but doesn't hurt to check.
 ```
