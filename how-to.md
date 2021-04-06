@@ -85,14 +85,6 @@ In the `polyfills.ts` add this line at the top.
 import '@angular/localize/init';
 ```
 
-Run the project.
-```
-ng serve --o
-```
-
-
-
-
 Ensure the `NgbModule` is included in the `app.module.ts`. 
 ```
 import { BrowserModule } from '@angular/platform-browser';
@@ -125,4 +117,9 @@ import { FooterComponent } from './shared/footer/footer.component';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+```
+
+Run the project.
+```
+ng serve --o
 ```
