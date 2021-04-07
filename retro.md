@@ -39,7 +39,7 @@ This repo was created to...
 * Didn't get much chance to continue with the portfolio site, but overall was really productive due to planning ahead
 
 #### Feedback 
-* i think the reason why the session wasnt that productivewe was; 1)we were still finding our footing and 2)because we didnt have a plan, we became a bit aimless and i think that made you doubt what you were saying.
+* I think the reason why the session wasnt that productivewe was: 1) we were still finding our footing (2) because we didnt have a plan, we became a bit aimless and I think that made you doubt what you were saying.
 
 ### ✨ Session 4 - Thu 1 Apr 21 @ 2hrs
 #### What went well?
@@ -47,12 +47,12 @@ This repo was created to...
 * Went over how to use froala templates inside application
 * Briefly went over how to use devtools
 #### What didn't go so well?
-Unfortunately, we had an issue with the Bootstrap dependency not working but it was good to see your problem solving technique in real time which is an equally important part of coding.
+* Unfortunately, we had an issue with the Bootstrap dependency not working but it was good to see your problem solving technique in real time which is an equally important part of coding.
 
 #### Feedback 
 * I can feel your confidence growing in the way that you explain things! You need to commit and believe in what you are saying
 * I appreaciate your genuine enthusiam when we go through the code, its very infectious and feels like im learning. 
 * I feel comfortable asking queastions even the easy ones, I dont feel like im being patronised which is great!
-* Perhaps going forward we should set an agenda for which topics to cover during each session, like we can aim to tackle 2-3 topics in each session? i feel like this will help us stick to time constraints and feel like ever been productive and then at the end of the session we can tick these off the list.
+* Perhaps going forward we should set an agenda for which topics to cover during each session, like we can aim to tackle 2-3 topics in each session? I feel like this will help us stick to time constraints and feel like ever been productive and then at the end of the session we can tick these off the list.
 
 ## Freedom Project
