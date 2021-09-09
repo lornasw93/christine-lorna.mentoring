@@ -54,10 +54,3 @@ This repo was created to...
 * I appreaciate your genuine enthusiam when we go through the code, its very infectious and feels like im learning. 
 * I feel comfortable asking queastions even the easy ones, I dont feel like im being patronised which is great!
 * Perhaps going forward we should set an agenda for which topics to cover during each session, like we can aim to tackle 2-3 topics in each session? I feel like this will help us stick to time constraints and feel like ever been productive and then at the end of the session we can tick these off the list.
-
-### ✨ Session 5 - Fri 9 Apr 21 @ ...
-#### What went well? 
-#### What didn't go so well? 
-#### Feedback
-
-## Freedom Project
